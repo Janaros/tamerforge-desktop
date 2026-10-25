@@ -46,7 +46,7 @@ TamerForge sucht beim Start nach einer neuen Version, lädt sie im Hintergrund h
 ## Wo liegen meine Daten?
 - Alles Lokale liegt in deinem Windows-Benutzerordner unter `%APPDATA%\tamerforge`: Datenbank, Bilder, Töne und eine automatische Sicherung bei jedem Start (die letzten 14).
 - Die Anmeldung auf diesem Gerät ist verschlüsselt und an dein Windows-Konto gebunden.
-- Willst du wechseln oder das Gerät abgeben, gehe auf „Abgleich“ → **„Abmelden“**. Deine lokalen Daten bleiben erhalten, bis du sie löschst.
+- Willst du wechseln oder das Gerät abgeben, gehe auf „Abgleich“ → **„Verbindung trennen“**. Deine lokalen Daten bleiben erhalten, bis du sie löschst.
 
 ## Deinstallieren
 Windows-Einstellungen → Apps → **TamerForge** → Deinstallieren. Deine Daten in `%APPDATA%\tamerforge` bleiben dabei liegen. Wenn du sie nicht mehr brauchst und alles abgeglichen ist, kannst du den Ordner selbst löschen.
